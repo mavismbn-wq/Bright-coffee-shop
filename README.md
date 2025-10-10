@@ -26,6 +26,8 @@ Excel Pivot table Groups and chats
 
 Googlelooker developing an interective dashoboard
 
+https://lookerstudio.google.com/s/h-ghup5I254
+
 
 # EDA  ----checking column on my database
 SELECT
